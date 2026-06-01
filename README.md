@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL_HERE" width="100%" />
+<img src="https://canva.link/35fovnsnhi62bwk" width="100%" />
 
 # Hi 👋 I'm Chitrangda Singh
 
 ### Software Engineer | Full Stack MERN Developer
+### Building Scalable Web Applications
 
 Building scalable web applications with React, Node.js, Express & MongoDB
 
