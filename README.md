@@ -5,12 +5,9 @@
 
   ### Software Engineer | Full Stack MERN Developer
   ### Building Scalable Web Applications
+  ### India 🇮🇳 | Open to Remote | Open to Relocation
 </div>
-# Hi, I'm Chitrangda Singh 👋
 
-### Software Engineer | Full Stack (MERN) Developer
-
-India 🇮🇳 | Open to Remote | Open to Relocation
 
 ---
 
