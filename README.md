@@ -1,14 +1,10 @@
 <div align="center">
+  <img src="./github-banner.png" width="100%" />
 
-<img src="https://canva.link/35fovnsnhi62bwk" width="100%" />
+  # Hi 👋 I'm Chitrangda Singh
 
-# Hi 👋 I'm Chitrangda Singh
-
-### Software Engineer | Full Stack MERN Developer
-### Building Scalable Web Applications
-
-Building scalable web applications with React, Node.js, Express & MongoDB
-
+  ### Software Engineer | Full Stack MERN Developer
+  ### Building Scalable Web Applications
 </div>
 # Hi, I'm Chitrangda Singh 👋
 
